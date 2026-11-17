@@ -1,0 +1,15 @@
+{
+    "results": {
+        "Linear Regression": {
+            "MAE": 6.2818,
+            "RMSE": 8.5023,
+            "R2 Score": -0.0426
+        },
+        "Random Forest": {
+            "MAE": 5.3601,
+            "RMSE": 7.4618,
+            "R2 Score": 0.197
+        }
+    },
+    "best_model": "Random Forest"
+}
